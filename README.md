@@ -4,7 +4,7 @@ Usage Care Brand Fuzzy Matching
 
 # Situation
 
-The team I'm working with was using Excel's Fuzzy Lookup tool to extract brand names from free string values. I tried to find an alternative that easier for team to use and outperform hte Fuzzy Lookup. 
+The team I'm working with was using Excel's Fuzzy Lookup tool to extract brand names from free string values. I tried to find an alternative, which is easier for the team to use and outperforms the Fuzzy Lookup.
 
 # Approach
 
