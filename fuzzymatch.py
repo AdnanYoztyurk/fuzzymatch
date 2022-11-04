@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Fuzzy Matching Applicaton
+"""Fuzzy Matching Application
 
 Description:
     This Python script applies the "token_sort_ratio" methods from the fuzzywuzzy library. We have seen that this method
