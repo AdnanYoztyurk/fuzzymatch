@@ -1,4 +1,4 @@
-# Fuzzy Matching Applicaton
+# Fuzzy Matching Application
 
 Usage Care Brand Fuzzy Matching
 
